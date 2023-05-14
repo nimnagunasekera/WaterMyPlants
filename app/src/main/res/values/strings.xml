@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WATERMYPLANTS</string>
+    <string name="app_slogan">Healthy Plants, Happy You!</string>
+    <string name="text_under_slogan">WATERMYPLANTS helps your plants get the right amount of water at the right time, so you can focus on enjoying your garden and watching your plants grow</string>
+    <string name="btn_next">Next</string>
+    <string name="txt_settings_title">Settings</string>
+    <string name="text_dark_mode">Dark Mode</string>
+    <string name="title_activity_settings_page">SettingsPageActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_add">Add</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="title_activity_main3">MainActivity3</string>
+</resources>
